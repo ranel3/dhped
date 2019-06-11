@@ -1,8 +1,8 @@
 ---
-title: "How Zombies Inform our Understanding of Racism"
-excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-13177-thriller-624-1382985460.jpg?crop=900:600&width=440"
-overlay_image: "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-13177-thriller-624-1382985460.jpg?crop=900:600&width=440"
+title: "Racist Algorithms in Media"
+excerpt: 'AI and inherent bias meet to create racist algorithms that erase, hypersexualize, and criminalize Black people in America.'
+teaser: "https://www.perpetuallineup.org/sites/default/files/MainHeaderImage.jpg"
+overlay_image: "https://www.perpetuallineup.org/sites/default/files/MainHeaderImage.jpg"
 contributors:
   - name: Rachel Nelson
     image: https://cdn.vox-cdn.com/thumbor/b6eMpE6TiHq1iQcWFDUZcnCc4Jw=/0x0:1000x750/1200x900/filters:focal(0x0:1000x750)/cdn.vox-cdn.com/uploads/chorus_image/image/48144985/chucklead.0.jpg
@@ -10,9 +10,8 @@ contributors:
     twitter: BlkFemmeHistory
 ---
 
-
-<iframe src="https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/f6f8cf8ab31e9c13b2c05935dda85c7d/ling-9-shuang-and-tiauna/index.html" frameborder="0" width="100%" height="500">
-</iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+                                
 
 
 ## Introduction
