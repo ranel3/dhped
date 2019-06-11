@@ -1,8 +1,8 @@
 ---
 title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://bloody-disgusting.com/wp-content/uploads/2016/03/thrillerbanner.jpg"
-overlay_image: "https://bloody-disgusting.com/wp-content/uploads/2016/03/thrillerbanner.jpg"
+teaser: "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-13177-thriller-624-1382985460.jpg?crop=900:600&width=440"
+overlay_image: "https://www.rollingstone.com/wp-content/uploads/2018/06/rs-13177-thriller-624-1382985460.jpg?crop=900:600&width=440"
 contributors:
   - name: Rachel Nelson
     image: https://cdn.vox-cdn.com/thumbor/b6eMpE6TiHq1iQcWFDUZcnCc4Jw=/0x0:1000x750/1200x900/filters:focal(0x0:1000x750)/cdn.vox-cdn.com/uploads/chorus_image/image/48144985/chucklead.0.jpg
