@@ -1,7 +1,7 @@
 ---
 title: "How Zombies Inform our Understanding of Racism"
 excerpt: 'Since the appropriation of the Haitian zonbi into American popular culture, zombie narratives have reflected worries and tensions in American society.'
-teaser: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
+teaser: "https://bloody-disgusting.com/wp-content/uploads/2016/03/thrillerbanner.jpg"
 overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zombies_NightoftheLivingDead.jpg/640px-Zombies_NightoftheLivingDead.jpg"
 contributors:
   - name: Rachel Nelson
